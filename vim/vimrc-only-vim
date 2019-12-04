@@ -1,0 +1,27 @@
+set number
+set autoindent
+set smartindent
+set ai
+set si
+set ignorecase
+set hlsearch
+set background=dark
+set nocompatible
+set fileencodings=utf-8,euc-kr
+set bs=indent,eol,start
+set history=1000
+set ruler
+set nobackup
+set title
+set showmatch
+set nowrap
+set wmnu
+set cindent
+set softtabstop=2
+set shiftwidth=2
+set expandtab
+set tabstop=2
+set mouse=a
+set clipboard=unnamedplus
+
+syntax on
